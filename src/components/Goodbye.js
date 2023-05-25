@@ -1,0 +1,13 @@
+import React from 'react'
+
+function Goodbye() {
+  return (
+    <div>
+        It's been my fucking pleasure to teach this class! I wish you all amazing things! 🫂
+        <img src="https://lh3.googleusercontent.com/n9QpjiLlCIpuWKVTvsBMd5CraaboW240-MBiVEgLMlhpDZwNz_jzhiz9SGw4-fsFvVihbSUbZMSy76TIVlqEZsxDgVLwgsNMi4OcWOOY5vT28MEDtgIDuWLJNunMKFWk19VJfLGDoF9EiNYpupszNm10MJLnjnTgG01c7AhIQhxuJ5HVZiZ1TtRvXoswPArf58hvYUcvLBrPCBk30Z9ISCzfJHGYoKVT_mIXC5lSjWdx14r3ieGCdBNTo27tyJVk0KzL0G1JGIWT4wbilHMAfqVYTkpHVFtRR08ddzxS4Ynr7nwRNyeIItART2nkFwhJqwQBysDo8Lg6STy2qS_38ABN7cxVjJNi5dkc5ALlDRKuiBiBFEiGTEtiNc7NZUbvFD9F-KUVzpG8SWT0iy8hjWtNVlfNThLEaHGwFfUz_anY6WCce2Fiedl5RODMtiXHxugMGg5QyedtZG-0KVq0tPB5e0unTv9BtUnyXhvkKxweWl7gnRoRSjZnMLWYEd1nizH3Yl_vhezitvcTjzNJUgObWn0EmNeMchpnX-opI8xmr5WH8ovtZnZRupWguIQuGXqyfqXv61BzcW28wDzCfP-rU2ElRCIHlvCEodxb0VsyTjEgfbR2p8p-U-P6i6Slj76K6AIcLJsZVyZZwWyH4PtkFYCj5J3WUlXN86ikm5joujavzyFJQNVc9k1WTsmX8k6z5JPdQ7YXXYBYNRDVZwdBFI3_vWf1Un0ck28dBXjyZxuGRS0Xeies81oyzQ3LDwWFVTS01wS0MdZW6OlNLpevGLJvGQMsgvUT6C9MUWHhILg-OuCnSLXBvT3TNd2FCF5NY3jZhWucDWg_HAr0JibX6dBoi69WihHsZgV7tX962lHej-oQTcs2ZppM-DEMN_-HNT13jJnhSfbCjwCthCqkkE7K4I38KRb-kPwEIUX3=w434-h890-s-no?authuser=0" alt="" />
+
+    </div>
+  )
+}
+
+export default Goodbye

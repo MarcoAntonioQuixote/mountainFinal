@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": 1685972999064,
+      "name": "Morgan Student",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04LRSCHRDF-c206b7716ea3-512"
+    },
+    {
+      "id": 1684672999064,
+      "name": "Gina Atlay",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04KUF9HQ3X-804901ad84cb-512"
+    },
+    {
+      "id": 1684972799064,
+      "name": "Najmeh Student",
+      "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fca.slack-edge.com%2FTAW0SPJN4-U04L9969DLL-070e17de3529-512"
+    },
+    {
+      "id": 1684972999064,
+      "name": "Derek Jamerson",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04KXA6FSPM-f0958211f9b5-512"
+    },
+    {
+        "id": 1654172999964,
+        "name": "Ciera Lopez",
+        "image": "none"
+    },
+    {
+      "id": 1684972199064,
+      "name": "Mayra Arredondo",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04LKJQG36F-0eec710801d7-512"
+    },
+    {
+      "id": 1684972979064,
+      "name": "Taylor Self",
+      "image": "https://scontent.fboi1-1.fna.fbcdn.net/v/t1.18169-9/13445647_1289139124448717_6725909386727488812_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=7z_iuZsPrU0AX_ITcso&_nc_ht=scontent.fboi1-1.fna&oh=00_AfAdzdgqETljPYYUOh6BuFAKhO0Le4xsAzSsowdLMzFt_A&oe=647DF2A4"
+    },
+    {
+      "id": 1684972998064,
+      "name": "Cody Xoumanivong",
+      "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5603AQF8hunBPlG6LA%2Fprofile-displayphoto-shrink_400_400%2F0%2F1648489185544%3Fe%3D1686182400%26v%3Dbeta%26t%3D2MiVbnyuf25D5xuHjFsni8D6Rg8vkO7EkkeMvm0jef0"
+    },
+    {
+      "id": 1684972999964,
+      "name": "Kent Ma",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U03V67H0NBB-cee092dae9f8-512"
+    },
+    {
+      "id": 1684973308431,
+      "name": "Joshua Kabangu",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04KR4WH8F5-2eea65dcb991-512"
+    },
+    {
+      "id": 1684972998264,
+      "name": "River Student",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04KR4WSEV9-5adeb07476d9-512"
+    },
+    {
+      "id": 1654972999964,
+      "name": "Victor Vargas",
+      "image": "https://ca.slack-edge.com/TAW0SPJN4-U04L55ZEZ7Z-1e8d3e628c45-512"
+    },
+    {
+      "id": 1682973308431,
+      "name": "Mark Anthony Gutierrez",
+      "image": "https://static.wixstatic.com/media/319a6a_8d2905c43c7e411090012a54e840c60a~mv2.jpg/v1/fill/w_576,h_716,al_c,q_85,enc_auto/3%20months%20ago%2C%20I%20was%20removed%20from%20the%20wai.jpg"
+    },
+    {
+      "id": 1684914108903,
+      "name": "Tyler Wilhelm",
+      "image": "none"
+    }
+  ]
+}
